@@ -1,0 +1,24 @@
+/****************************************************************************************
+*  Darong Li, dli97
+*  2022 Winter CSE101 PA7
+*  Dictionary.cpp 		- The Dictionary adt
+*  Dictionary.h			- The Header File for Dictionary ADT
+*  DictionaryTest.cpp   	- The Test Client for Dictionary ADT
+*  Order.cpp   			- The Test Client for Dictionary ADT
+*  Makefile
+*  README
+*****************************************************************************************/
+
+Dictionary.cpp:
+	The following functions are from Pseudo Code:
+		search()
+		findMin()
+		findMax()
+		findNext()
+		insert()
+		Transplant()
+		delete()
+		RB_InsertFixup()
+		RB_DeleteFixup()
+		LeftRotate()
+		RightRotate()
